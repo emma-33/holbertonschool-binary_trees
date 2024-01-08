@@ -16,9 +16,9 @@ int main(void)
 	root->left = binary_tree_node(root, 12);
 	root->right = binary_tree_node(root, 402);
 	binary_tree_insert_right(root->left, 54);
+	printf("test\n");
 	binary_tree_insert_right(root, 128);
 	binary_tree_print(root);
-
 	ret = binary_tree_is_leaf(root);
 	printf("Is %d a leaf: %d\n", root->n, ret);
 	ret = binary_tree_is_leaf(root->right);
