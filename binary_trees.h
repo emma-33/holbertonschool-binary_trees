@@ -46,4 +46,7 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 									const binary_tree_t *second);
 binary_tree_t *search_ancestor(binary_tree_t *root, const binary_tree_t *first,
 								const binary_tree_t *second);
+int binary_tree_is_complete(const binary_tree_t *tree);
+int is_complete(const binary_tree_t *tree, int index, int num_nodes);
+
 #endif

@@ -3,7 +3,7 @@ Function 1 : inserts a node as the left-child of another node
 Function 2 : inserts a node as the right-child of another node  
 Function 3 : deletes an entire binary tree  
 Function 4 : checks if a node is a leaf  
-Function 5 : checks if a given node is a root  
+Function 5 : checks if a given node is a root   
 Function 6 : goes through a binary tree using pre-order traversal  
 Function 7 : goes through a binary tree using in-order traversal  
 Function 8 : goes through a binary tree using post-order traversal  
