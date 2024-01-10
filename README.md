@@ -18,3 +18,7 @@ Function 16 : checks if a binary tree is perfect
 Function 17 : finds the sibling of a node  
 Function 18 : finds the uncle of a node  
 Function 19 : finds the lowest common ancestor of two nodes  
+Function 21 : checks if a binary tree is complete  
+Function 22 : performs a left-rotation on a binary tree  
+Function 23 : performs a right-rotation on a binary tree  
+Function 24 : checks if a binary tree is a valid binary search tree  
