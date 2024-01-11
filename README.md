@@ -22,3 +22,8 @@ Function 21 : checks if a binary tree is complete
 Function 22 : performs a left-rotation on a binary tree  
 Function 23 : performs a right-rotation on a binary tree  
 Function 24 : checks if a binary tree is a valid binary search tree  
+Function 25 : inserts a value in a Binary Search Tree  
+Function 26 : builds a Binary Search Tree from an array  
+Function 27 : searches for a value in a Binary Search Tree  
+Function 28 : searches for a value in a Binary Search Tree  
+Function 37 : checks if a binary tree is a max binary heap  
