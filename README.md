@@ -26,6 +26,9 @@ Function 25 : inserts a value in a Binary Search Tree
 Function 26 : builds a Binary Search Tree from an array  
 Function 27 : searches for a value in a Binary Search Tree  
 Function 28 : searches for a value in a Binary Search Tree  
+File 30 : average time complexities of inserting the value n, emoving the node with value n and searching for a node in a BST of size n  
+File 36 : average time complexities of inserting the value n, removing the node with the value n and searching for a node in an AVL tree of size n  
 Function 37 : checks if a binary tree is a max binary heap  
 Function 38 : inserts a value in a max binary heap  
 Function 39 : builds a max binary heap tree from an array  
+File 42/43 : average time complexities of inserting the value n, extrating the root node and searching for a node in a binary heap of size n  
