@@ -28,3 +28,4 @@ Function 27 : searches for a value in a Binary Search Tree
 Function 28 : searches for a value in a Binary Search Tree  
 Function 37 : checks if a binary tree is a max binary heap  
 Function 38 : inserts a value in a max binary heap  
+Function 39 : builds a max binary heap tree from an array  
