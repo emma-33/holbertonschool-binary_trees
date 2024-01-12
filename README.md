@@ -27,3 +27,4 @@ Function 26 : builds a Binary Search Tree from an array
 Function 27 : searches for a value in a Binary Search Tree  
 Function 28 : searches for a value in a Binary Search Tree  
 Function 37 : checks if a binary tree is a max binary heap  
+Function 38 : inserts a value in a max binary heap  
